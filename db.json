@@ -1,0 +1,244 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Laptop",
+            "price": 1000,
+            "description": "A high-performance laptop with a sleek design and powerful specs.",
+            "image": "https://via.placeholder.com/150",
+            "reviews": [
+                "Excellent performance!",
+                "Value for money.",
+                "Highly recommended."
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Smartphone",
+            "price": 700,
+            "description": "A cutting-edge smartphone with an impressive camera.",
+            "image": "https://via.placeholder.com/150",
+            "reviews": [
+                "Great camera quality.",
+                "Battery life is amazing.",
+                "Super smooth interface."
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Wireless Headphones",
+            "price": 150,
+            "description": "Noise-cancelling wireless headphones with great sound quality.",
+            "image": "https://via.placeholder.com/150",
+            "reviews": [
+                "Comfortable to wear.",
+                "Sound quality is superb.",
+                "Good battery life."
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Smart Watch",
+            "price": 250,
+            "description": "A smart watch with health monitoring features.",
+            "image": "https://via.placeholder.com/150",
+            "reviews": [
+                "Accurate health tracking.",
+                "Stylish and durable.",
+                "Easy to use."
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Gaming Mouse",
+            "price": 50,
+            "description": "An ergonomic gaming mouse with customizable buttons.",
+            "image": "https://via.placeholder.com/150",
+            "reviews": [
+                "Perfect for gaming.",
+                "Feels great in hand.",
+                "Affordable and reliable."
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Gaming Keyboard",
+            "price": 80,
+            "description": "RGB backlit keyboard with mechanical keys.",
+            "image": "https://via.placeholder.com/150",
+            "reviews": [
+                "Great for gaming.",
+                "Excellent build quality.",
+                "Responsive keys."
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Tablet",
+            "price": 400,
+            "description": "Portable tablet with a vibrant display and fast processor.",
+            "image": "https://via.placeholder.com/150",
+            "reviews": [
+                "Good for reading.",
+                "Perfect for travel.",
+                "Smooth performance."
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Monitor",
+            "price": 300,
+            "description": "24-inch HD monitor with stunning visuals.",
+            "image": "https://via.placeholder.com/150",
+            "reviews": [
+                "Great clarity.",
+                "Perfect for office use.",
+                "Affordable."
+            ]
+        },
+        {
+            "id": 9,
+            "name": "External Hard Drive",
+            "price": 100,
+            "description": "1TB external hard drive for data storage.",
+            "image": "https://via.placeholder.com/150",
+            "reviews": [
+                "Compact and reliable.",
+                "Fast data transfer.",
+                "Good value."
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Router",
+            "price": 120,
+            "description": "High-speed Wi-Fi router with long range.",
+            "image": "https://via.placeholder.com/150",
+            "reviews": [
+                "Excellent range.",
+                "Stable connection.",
+                "Easy setup."
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Smart Speaker",
+            "price": 60,
+            "description": "Voice-controlled smart speaker with great sound.",
+            "image": "https://via.placeholder.com/150",
+            "reviews": [
+                "Love the voice assistant.",
+                "Good sound quality.",
+                "Very convenient."
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Webcam",
+            "price": 70,
+            "description": "HD webcam with built-in microphone.",
+            "image": "https://via.placeholder.com/150",
+            "reviews": [
+                "Great for video calls.",
+                "Clear video quality.",
+                "Affordable."
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Portable Charger",
+            "price": 40,
+            "description": "10,000mAh portable charger for mobile devices.",
+            "image": "https://via.placeholder.com/150",
+            "reviews": [
+                "Compact and powerful.",
+                "Charges fast.",
+                "Must-have for travel."
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Drone",
+            "price": 500,
+            "description": "High-tech drone with a 4K camera.",
+            "image": "https://via.placeholder.com/150",
+            "reviews": [
+                "Amazing footage.",
+                "Easy to fly.",
+                "Great for aerial photography."
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Fitness Tracker",
+            "price": 90,
+            "description": "Water-resistant fitness tracker with heart rate monitor.",
+            "image": "https://via.placeholder.com/150",
+            "reviews": [
+                "Tracks accurately.",
+                "Lightweight design.",
+                "Excellent battery."
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Bluetooth Speaker",
+            "price": 120,
+            "description": "Portable Bluetooth speaker with deep bass.",
+            "image": "https://via.placeholder.com/150",
+            "reviews": [
+                "Crystal clear sound.",
+                "Long battery life.",
+                "Perfect for parties."
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Camera",
+            "price": 1200,
+            "description": "DSLR camera with advanced features.",
+            "image": "https://via.placeholder.com/150",
+            "reviews": [
+                "Superb photo quality.",
+                "Durable build.",
+                "Good for professionals."
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Tripod",
+            "price": 50,
+            "description": "Adjustable tripod for cameras and smartphones.",
+            "image": "https://via.placeholder.com/150",
+            "reviews": [
+                "Lightweight.",
+                "Easy to use.",
+                "Sturdy build."
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Microwave Oven",
+            "price": 150,
+            "description": "Compact microwave oven with digital controls.",
+            "image": "https://via.placeholder.com/150",
+            "reviews": [
+                "Heats evenly.",
+                "Easy to clean.",
+                "Affordable."
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Action Camera",
+            "price": 300,
+            "description": "Waterproof action camera with wide-angle lens.",
+            "image": "https://via.placeholder.com/150",
+            "reviews": [
+                "Perfect for adventures.",
+                "Good video quality.",
+                "Easy to mount."
+            ]
+        }
+    ]
+}
